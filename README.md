@@ -1,46 +1,102 @@
-**Series de Tiempo**
+Claro 👍
+Aquí tienes todo el contenido ordenado y formateado en Markdown, listo para usar en un syllabus, README o plataforma académica.
 
-El curso tiene como objetivo principal introducir a los estudiantes a los métodos fundamentales y avanzados de análisis de series de tiempo, junto con sus aplicaciones en una amplia variedad de disciplinas, tales como: estudios actuariales, climatología, economía, finanzas, geografía, meteorología, ciencias políticas, gestión de riesgos y sociología.
+📈 Series de Tiempo
+🎯 Objetivo del curso
 
-Se abordarán las técnicas de modelado de series de tiempo desde un enfoque práctico, haciendo énfasis en su uso en la predicción y en la interpretación de resultados cuando sea pertinente. Aunque los modelos lineales recibirán una atención detallada, se incluirán extensiones hacia modelos no lineales, con un enfoque en su aplicabilidad a problemas complejos del mundo real.
+El curso tiene como objetivo principal introducir a los estudiantes a los métodos fundamentales y avanzados del análisis de series de tiempo, junto con sus aplicaciones en una amplia variedad de disciplinas, tales como:
+
+Estudios actuariales
+
+Climatología
+
+Economía y finanzas
+
+Geografía y meteorología
+
+Ciencias políticas
+
+Gestión de riesgos
+
+Sociología
+
+Se abordarán las técnicas de modelado de series de tiempo desde un enfoque práctico, haciendo énfasis en su uso en la predicción y en la interpretación de resultados cuando sea pertinente.
+
+Aunque los modelos lineales recibirán una atención detallada, se incluirán extensiones hacia modelos no lineales, con foco en su aplicabilidad a problemas complejos del mundo real.
+
+🧠 Enfoque del curso
 
 El curso se centra en:
 
-Los conceptos fundamentales de las series de tiempo, incluyendo componentes como tendencia, estacionalidad y ruido.
-La aplicación práctica de los métodos mediante ejemplos contextualizados y el uso de software estadístico como R y Python.
-La comparación y selección de técnicas de modelado en función de sus ventajas, limitaciones y la naturaleza de los datos.
-Al final del curso, los estudiantes estarán preparados para implementar y evaluar modelos de series de tiempo en contextos diversos, utilizando herramientas computacionales y un enfoque analítico crítico.
+Los conceptos fundamentales de las series de tiempo: tendencia, estacionalidad y ruido.
 
-Semana	Tema	Lectura
-1	Fundamentos del análisis de series de tiempo: Forecasting, nowcasting y detección de anomalías. Componentes, frecuencia y horizonte de pronóstico.	PDA · Intrdoducción · FPP3 – Cap. 1
-2	Preparación de datos temporales: Resampling, manejo de valores faltantes y atípicos, transformaciones y calendarios.	
-3	Evaluación en series de tiempo: Entrenamiento y prueba temporal, backtesting y métricas de desempeño.	
-4	Modelos de suavizamiento exponencial y ETS: Modelos basados en estado para series univariadas.	
-5	Modelos ARIMA y SARIMA: Identificación, estimación y diagnóstico.	
-6	Modelos con variables exógenas: Regresión dinámica y SARIMAX.	
+La aplicación práctica de los métodos mediante ejemplos contextualizados.
+
+El uso de software estadístico como R y Python.
+
+La comparación y selección de técnicas de modelado según:
+
+Ventajas
+
+Limitaciones
+
+Naturaleza de los datos
+
+Al finalizar el curso, los estudiantes estarán preparados para implementar y evaluar modelos de series de tiempo en diversos contextos, utilizando herramientas computacionales y un enfoque analítico crítico.
+
+📅 Programa del curso
+Semana	Tema	Lecturas
+1	Fundamentos del análisis de series de tiempo: forecasting, nowcasting y detección de anomalías. Componentes, frecuencia y horizonte de pronóstico.	PDA · Introducción · FPP3 – Cap. 1
+2	Preparación de datos temporales: resampling, manejo de valores faltantes y atípicos, transformaciones y calendarios.	—
+3	Evaluación en series de tiempo: entrenamiento y prueba temporal, backtesting y métricas de desempeño.	—
+4	Modelos de suavizamiento exponencial y ETS: modelos basados en estado para series univariadas.	—
+5	Modelos ARIMA y SARIMA: identificación, estimación y diagnóstico.	—
+6	Modelos con variables exógenas: regresión dinámica y SARIMAX.	—
 7	Modelos aditivos modernos: Prophet y detección de changepoints.	Prophet Docs
-8	Machine Learning para series de tiempo: Series temporales como problema supervisado e ingeniería de características.	
-9	Pronóstico probabilístico: Intervalos de predicción, cuantiles y evaluación de la incertidumbre.	
-10	Series múltiples y datos tipo panel: Modelos globales y pronóstico por grupos.	
-11	Pronóstico jerárquico: Reconciliación y coherencia entre series.	
-12	Modelos multivariados clásicos: VAR para análisis dinámico multivariable.	
-13	Modelos de corrección del error: Cointegración y modelos VEC.	
-14	Deep Learning para series de tiempo: Modelos secuenciales y convolucionales para forecasting.	
-15	Detección de anomalías y monitoreo: Identificación de comportamientos atípicos y drift temporal.	
-16	Presentación de proyectos finales: Integración de modelos y análisis comparativo de resultados.	—
-Evaluación
-Las notas se distribuirán de la siguiente manera
-
-ACTIVIDAD	PORCENTAJE
-Quices-Talleres	50%
-Proyecto	50% (10- 20- 20)
+8	Machine Learning para series de tiempo: series temporales como problema supervisado e ingeniería de características.	—
+9	Pronóstico probabilístico: intervalos de predicción, cuantiles y evaluación de la incertidumbre.	—
+10	Series múltiples y datos tipo panel: modelos globales y pronóstico por grupos.	—
+11	Pronóstico jerárquico: reconciliación y coherencia entre series.	—
+12	Modelos multivariados clásicos: VAR para análisis dinámico multivariable.	—
+13	Modelos de corrección del error: cointegración y modelos VEC.	—
+14	Deep Learning para series de tiempo: modelos secuenciales y convolucionales para forecasting.	—
+15	Detección de anomalías y monitoreo: identificación de comportamientos atípicos y drift temporal.	—
+16	Presentación de proyectos finales: integración de modelos y análisis comparativo de resultados.	—
+📝 Evaluación
+Actividad	Porcentaje
+Quices y talleres	50%
+Proyecto final	50%
 Total	100%
-Primer avance. Problema, justificación y objetivos.
-Segundo avance. Marco teórico –previa metodología-
-Metodología y primeros resultados.
-Exposiciones Entrega Final
-Superfinanciera
+📌 Proyecto (50%)
 
-Rubrica
+Primer avance (10%)
 
-Enlace meet# seriesdetiempo
+Problema
+
+Justificación
+
+Objetivos
+
+Segundo avance (20%)
+
+Marco teórico
+
+Previa metodología
+
+Entrega final (20%)
+
+Metodología
+
+Resultados
+
+Exposición
+
+Caso aplicado: Superfinanciera
+
+📊 Rúbrica
+
+(Se entrega por separado o mediante plataforma institucional)
+
+💻 Enlace Meet
+
+#seriesdetiempo
