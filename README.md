@@ -1,5 +1,4 @@
-Claro 👍
-Aquí tienes todo el contenido ordenado y formateado en Markdown, listo para usar en un syllabus, README o plataforma académica.
+
 
 📈 Series de Tiempo
 🎯 Objetivo del curso
